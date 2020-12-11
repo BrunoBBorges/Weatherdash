@@ -1,0 +1,1 @@
+Simple weather app that pulls from an api to show the current weather and the temp/humidity for the next 5 days
